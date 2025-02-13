@@ -5,6 +5,3 @@ The database is not puclicly accessible being in the Instructor's Online Server 
 The goal of the exercice was to build a balance sheet and profit ad loss statements filtering and cleaning the data to show specific years and lines of the statements, adding metrics for analysis.
 
 I made sure that the lines of code are explained to allow the reader to fully understand what was done and why.
-
-
-PS: I got a grade of 100 😊
