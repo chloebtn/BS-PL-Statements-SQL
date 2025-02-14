@@ -1,6 +1,6 @@
 # Balance Sheet and Profit & Loss Statements Assignment
 
-** Year: ** 2023
+**Year:** 2023
 
 This was an assignment given in the Data Extraction and Visualization course during my Master in Finance.
 The database is not publiquely accessible being in the Instructor's Online Server but this shows the code I created to do the assignment, the results can be seen in the pdf file.
